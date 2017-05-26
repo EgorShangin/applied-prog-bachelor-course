@@ -1,0 +1,21 @@
+C:\Users\STRL\Documents\Visual Studio 2012\Projects\ConsoleApplication1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\STRL\Documents\Visual Studio 2012\Projects\ConsoleApplication1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\STRL\Documents\Visual Studio 2012\Projects\ConsoleApplication1\UnitTestProject1\bin\Debug\ConsoleApplication1.exe
+C:\Users\STRL\Documents\Visual Studio 2012\Projects\ConsoleApplication1\UnitTestProject1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\STRL\Documents\Visual Studio 2012\Projects\ConsoleApplication1\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\STRL\Documents\Visual Studio 2012\Projects\ConsoleApplication1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\STRL\Documents\Visual Studio 2012\Projects\ConsoleApplication1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\Egor.Shangin\Desktop\ConsoleApplication1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Egor.Shangin\Desktop\ConsoleApplication1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Egor.Shangin\Desktop\ConsoleApplication1\UnitTestProject1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Egor.Shangin\Desktop\ConsoleApplication1\UnitTestProject1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Egor.Shangin\Desktop\ConsoleApplication1\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\Egor.Shangin\Desktop\ConsoleApplication1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Egor.Shangin\Desktop\ConsoleApplication1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+F:\ConsoleApplication1\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+F:\ConsoleApplication1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+F:\ConsoleApplication1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+F:\ConsoleApplication1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+F:\ConsoleApplication1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+F:\ConsoleApplication1\UnitTestProject1\bin\Debug\ConsoleApplication1.exe
+F:\ConsoleApplication1\UnitTestProject1\bin\Debug\ConsoleApplication1.pdb
