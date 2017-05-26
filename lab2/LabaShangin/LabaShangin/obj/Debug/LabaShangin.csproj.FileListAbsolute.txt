@@ -1,0 +1,12 @@
+c:\users\александр\documents\visual studio 2015\Projects\LabaShangin\LabaShangin\bin\Debug\LabaShangin.exe.config
+c:\users\александр\documents\visual studio 2015\Projects\LabaShangin\LabaShangin\bin\Debug\LabaShangin.exe
+c:\users\александр\documents\visual studio 2015\Projects\LabaShangin\LabaShangin\bin\Debug\LabaShangin.pdb
+c:\users\александр\documents\visual studio 2015\Projects\LabaShangin\LabaShangin\obj\Debug\LabaShangin.csprojResolveAssemblyReference.cache
+c:\users\александр\documents\visual studio 2015\Projects\LabaShangin\LabaShangin\obj\Debug\LabaShangin.Form1.resources
+c:\users\александр\documents\visual studio 2015\Projects\LabaShangin\LabaShangin\obj\Debug\LabaShangin.Properties.Resources.resources
+c:\users\александр\documents\visual studio 2015\Projects\LabaShangin\LabaShangin\obj\Debug\LabaShangin.csproj.GenerateResource.Cache
+c:\users\александр\documents\visual studio 2015\Projects\LabaShangin\LabaShangin\obj\Debug\LabaShangin.exe
+c:\users\александр\documents\visual studio 2015\Projects\LabaShangin\LabaShangin\obj\Debug\LabaShangin.pdb
+C:\Users\STRL\Desktop\LabaShangin\LabaShangin\bin\Debug\LabaShangin.exe.config
+C:\Users\STRL\Desktop\LabaShangin\LabaShangin\obj\Debug\LabaShangin.exe
+C:\Users\STRL\Desktop\LabaShangin\LabaShangin\obj\Debug\LabaShangin.pdb
